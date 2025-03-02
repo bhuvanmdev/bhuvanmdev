@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bhuvan M and I'm an AI/ML engineer 🤖.</p>
+<p align="left">Hi, I'm Bhuvan M, an AI/ML engineer 🤖 who believes that 'if at first you don't succeed, call it version 1.0'! :\.</p>
 
 ###
 
