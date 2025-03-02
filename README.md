@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning RLHF based Diffusion models.<br>💬 Ask me about LLMs, CV and ML optimization techniques.<br>🎯 Looking forward to collaborate on deep learning projects.<br>😄 Pronouns are He/Him.</p>
+<p align="left">📚 I'm currently learning RLHF based Diffusion models and exploring mol-chem models.<br>💬 Ask me about LLMs, CV and ML optimization techniques.<br>🎯 Looking forward to collaborate on deep learning projects.<br>😄 Pronouns are He/Him.</p>
 
 ###
 
