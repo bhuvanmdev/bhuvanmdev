@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Bhuvan M, an AI/ML engineer 🤖 who believes that 'if at first you don't succeed, call it version 1.0'! :\.</p>
+<p align="left">Hi, I'm Bhuvan M, an AI/ML engineer 🤖 who believes that 'if your code don't work, just call it version 1.0'! :\.</p>
 
 ###
 
